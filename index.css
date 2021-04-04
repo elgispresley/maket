@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header {
+    background: blue;
+    height: 50px;
+    margin: 10px;
+}
+.logo {
+    background: grey;
+    width: 150px;
+    height: 100%;
+    align-items: center;
+    margin-left: 50px;
+    
+    display: flex;
+    justify-content: center;
+}
+.search {
+   width: 578px;
+   margin: 0 auto;
+   display: flex;
+} 
+.content {
+    width: 578px;
+    margin: 0 auto;
+    display: flex;
+}
+.content-button {
+    width: 70px;
+    height: 29px;
+}
+.product {
+   width: 578px;
+   margin: 0 auto;
+   text-align: center;
+}
+.name-product {
+    background-color: aquamarine;
+}
+.opisanie {
+    background-color: burlywood;
+}
+.best-product {
+    background-color: darkcyan;
+}
+.img-product {
+    background-color: darksalmon;
+}
+.buying-product {
+     background-color: darksalmon;
+}
+.buying-button {
+    background-color: dimgrey;
+}
